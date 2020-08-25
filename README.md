@@ -1,2 +1,2 @@
 # jameshamilton68.github.io
-Personal website
+This is the repo for my personal website
